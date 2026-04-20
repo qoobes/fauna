@@ -1,0 +1,14 @@
+node_modules
+.next
+.git
+.env
+.env.local
+results
+.vscode
+.idea
+.DS_Store
+npm-debug.log*
+bun-debug.log*
+*.log
+README.md
+scripts

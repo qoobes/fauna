@@ -1,0 +1,29 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# Env
+.env
+.env.local
+.env*.local
+
+# Results (screenshots, scan raw files)
+results/
+
+# Drizzle
+drizzle/meta/_journal.json.bak
+
+# Editor / OS
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+bun-debug.log*
+yarn-debug.log*
+yarn-error.log*
